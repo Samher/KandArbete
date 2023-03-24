@@ -1,0 +1,71 @@
+Allowed_transition,4f3.(4F*).5d*;UC; 6.0;1,0,4f4;LS;6.0;6;2.0;2,0,3427.98432259,-1.690,E1,none
+Allowed_transition,4f3.(4F*).5d*;UC; 7.0;1,0,4f4;LS;7.0;6;2.0;2,0,3434.31560598,-1.700,E1,none
+Allowed_transition,4f3.(4F*).5d;LS;5.0;5;2.0;1,0,4f4;LS;5.0;6;2.0;2,0,3443.77579711,-1.490,E1,none
+Allowed_transition,4f3.(4F*).5d*;UC; 6.0;1,1,4f4;LS;6.0;6;2.0;2,0,3477.18445420,-2.000,E1,none
+Allowed_transition,4f3.(4F*).5d;LS;4.0;5;2.0;1,0,4f4;LS;4.0;6;2.0;2,0,3478.83139791,-1.660,E1,none
+Allowed_transition,4f3.(4F*).5d*;UC; 5.0;1,0,4f4;LS;5.0;6;2.0;2,0,3538.62263290,-2.600,E1,none
+Allowed_transition,4f3.(4F*).5d*;UC; 7.0;1,1,4f4;LS;7.0;6;2.0;2,0,3562.87271434,-2.310,E1,none
+Allowed_transition,4f3.(4F*).5d*;UC; 6.0;1,1,4f4;LS;7.0;6;2.0;2,0,3591.35365805,-0.590,E1,none
+Allowed_transition,4f3.(4F*).5d;LS;5.0;5;2.0;1,0,4f4;LS;6.0;6;2.0;2,0,3598.65483722,-0.570,E1,none
+Allowed_transition,4f3.(4F*).5d*;UC; 7.0;1,1,4f4;LS;8.0;6;2.0;2,0,3605.01053204,-0.550,E1,none
+Allowed_transition,4f3.(4F*).5d;LS;3.0;5;2.0;1,0,4f4;LS;4.0;6;2.0;2,0,3613.36907533,-0.800,E1,none
+Allowed_transition,4f3.(4F*).5d;LS;4.0;5;2.0;1,0,4f4;LS;5.0;6;2.0;2,0,3622.20542324,-0.520,E1,none
+Allowed_transition,4f3.(4F*).5d*;UC; 6.0;1,1,4f4;LS;7.0;6;2.0;2,0,3645.39201306,-0.850,E1,none
+Allowed_transition,4f3.(4F*).5d*;UC; 5.0;1,0,4f4;LS;6.0;6;2.0;2,0,3702.35316754,-1.060,E1,none
+Allowed_transition,4f3.(4F*).5d*;UC; 7.0;1,1,4f4;LS;8.0;6;2.0;2,0,3746.92854900,-0.620,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;5.0;5;1.0;1,0,4f4;LS;5.0;6;2.0;2,0,4212.18902198,-2.430,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;8.0;7;1.0;1,0,4f4;LS;7.0;6;2.0;2,0,4214.54708243,-2.660,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;7.0;7;1.0;1,0,4f4;LS;6.0;6;2.0;2,0,4360.71046963,-3.030,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;6.0;4;2.0;1,0,4f4;LS;6.0;6;2.0;2,0,4415.53719801,-2.220,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;5.0;5;1.0;1,0,4f4;LS;6.0;6;2.0;2,0,4446.24448182,-2.220,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;7.0;5;2.0;1,0,4f4;LS;7.0;6;2.0;2,0,4467.60949608,-2.520,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;8.0;7;1.0;1,0,4f4;LS;8.0;6;2.0;2,0,4474.54740960,-1.300,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;5.0;4;2.0;1,0,4f4;LS;5.0;6;2.0;2,0,4502.49724256,-2.030,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;5.0;5;2.0;1,0,4f4;LS;4.0;6;2.0;2,0,4508.30915189,-3.240,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;4.0;4;2.0;1,0,4f4;LS;5.0;6;2.0;2,0,4571.94083781,-2.060,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;6.0;5;2.0;1,0,4f4;LS;6.0;6;2.0;2,0,4614.47024036,-3.140,E1,none
+Allowed_transition,4f3.(4I*).5d*;UC; 7.0;1,0,4f4;LS;6.0;6;2.0;2,0,4626.27536581,-1.880,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;7.0;7;1.0;1,0,4f4;LS;7.0;6;2.0;2,0,4628.55070589,-2.080,E1,none
+Allowed_transition,4f3.(4I*).5d*;UC; 4.0;1,0,4f4;LS;4.0;6;2.0;2,0,4652.92484251,-1.860,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;3.0;4;2.0;1,0,4f4;LS;4.0;6;2.0;2,0,4655.61550799,-1.920,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;6.0;4;2.0;1,0,4f4;LS;7.0;6;2.0;2,0,4690.36706015,-1.800,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;7.0;5;2.0;1,0,4f4;LS;8.0;6;2.0;2,0,4760.85691997,-1.150,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;5.0;4;2.0;1,0,4f4;LS;6.0;6;2.0;2,0,4770.95526404,-1.800,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;8.0;6;2.0;1,0,4f4;LS;7.0;6;2.0;2,0,4789.80033095,-1.770,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;6.0;6;2.0;1,0,4f4;LS;5.0;6;2.0;2,0,4797.84058791,-1.650,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;6.0;7;1.0;1,0,4f4;LS;6.0;6;2.0;2,0,4823.33289216,-2.450,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;4.0;5;2.0;1,0,4f4;LS;4.0;6;2.0;2,0,4904.61023553,-2.210,E1,none
+Allowed_transition,4f3.(4I*).5d*;UC; 4.0;1,0,4f4;LS;5.0;6;2.0;2,0,4913.02399919,-1.630,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;5.0;7;2.0;1,0,4f4;LS;4.0;6;2.0;2,0,4914.31522826,-1.780,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;6.0;5;2.0;1,0,4f4;LS;7.0;6;2.0;2,0,4915.46578561,-1.100,E1,none
+Allowed_transition,4f3.(4I*).5d*;UC; 7.0;1,1,4f4;LS;6.0;6;2.0;2,0,4922.41777347,-1.890,E1,none
+Allowed_transition,4f3.(4I*).5d*;UC; 7.0;1,1,4f4;LS;7.0;6;2.0;2,0,4928.86343909,-0.800,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;7.0;7;1.0;1,0,4f4;LS;8.0;6;2.0;2,0,4944.05260630,-1.230,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;5.0;5;2.0;1,0,4f4;LS;6.0;6;2.0;2,0,5052.10335229,-1.060,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;6.0;6;1.0;1,0,4f4;LS;5.0;6;2.0;2,0,5086.07702182,-2.580,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;6.0;6;2.0;1,0,4f4;LS;6.0;6;2.0;2,0,5103.86987663,-0.620,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;8.0;6;2.0;1,0,4f4;LS;8.0;6;2.0;2,0,5128.47233476,-0.400,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;6.0;7;1.0;1,0,4f4;LS;7.0;6;2.0;2,0,5153.16653839,-1.540,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;3.0;5;2.0;1,0,4f4;LS;4.0;6;2.0;2,0,5153.72717807,-1.210,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;4.0;5;2.0;1,0,4f4;LS;5.0;6;2.0;2,0,5194.48543038,-1.180,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;5.0;6;2.0;1,0,4f4;LS;5.0;6;2.0;2,0,5205.37277757,-0.660,E1,none
+Allowed_transition,4f3.(4I*).5d*;UC; 7.0;1,1,4f4;LS;7.0;6;2.0;2,0,5266.42529586,-0.720,E1,none
+Allowed_transition,4f3.(4I*).5d*;UC; 7.0;1,1,4f4;LS;8.0;6;2.0;2,0,5288.22407686,-1.900,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;4.0;6;2.0;1,0,4f4;LS;4.0;6;2.0;2,0,5295.58583266,-0.690,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;5.0;6;1.0;1,0,4f4;LS;5.0;6;2.0;2,0,5411.60300718,-1.520,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;6.0;6;1.0;1,0,4f4;LS;6.0;6;2.0;2,0,5431.30391757,-1.240,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;6.0;6;2.0;1,0,4f4;LS;7.0;6;2.0;2,0,5474.66195057,-3.030,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;5.0;6;2.0;1,0,4f4;LS;6.0;6;2.0;2,0,5567.56107308,-2.330,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;4.0;6;2.0;1,0,4f4;LS;5.0;6;2.0;2,0,5635.11810109,-2.220,E1,none
+Allowed_transition,4f3.(4I*).5d*;UC; 7.0;1,1,4f4;LS;8.0;6;2.0;2,0,5678.75326834,-1.450,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;5.0;6;1.0;1,0,4f4;LS;6.0;6;2.0;2,0,5804.14077851,-1.710,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;9.0;7;2.0;1,0,4f4;LS;8.0;6;2.0;2,0,5846.64028663,-1.180,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;6.0;6;1.0;1,0,4f4;LS;7.0;6;2.0;2,0,5853.16390141,-1.550,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;8.0;7;2.0;1,0,4f4;LS;7.0;6;2.0;2,0,5989.34124853,-1.260,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;7.0;7;2.0;1,0,4f4;LS;6.0;6;2.0;2,0,6146.76848092,-1.330,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;6.0;7;2.0;1,0,4f4;LS;5.0;6;2.0;2,0,6329.01458256,-1.410,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;8.0;7;2.0;1,0,4f4;LS;8.0;6;2.0;2,0,6528.43190852,-2.510,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;5.0;7;2.0;1,1,4f4;LS;4.0;6;2.0;2,0,6552.04089522,-1.490,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;7.0;7;2.0;1,0,4f4;LS;7.0;6;2.0;2,0,6692.67753482,-2.460,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;6.0;7;2.0;1,0,4f4;LS;6.0;6;2.0;2,0,6872.60944871,-2.580,E1,none
+Allowed_transition,4f3.(4I*).5d;LS;5.0;7;2.0;1,1,4f4;LS;5.0;6;2.0;2,0,7079.83397789,-2.850,E1,none
