@@ -1,0 +1,13 @@
+edit p.in
+
+then run
+
+>> preselect5 < p.in | presformat5 > dummy
+
+or
+
+>> preselect5 < p.in > dummy
+
+>> parse_term < dummy
+
+
